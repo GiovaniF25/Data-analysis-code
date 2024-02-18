@@ -1,4 +1,4 @@
-Desafio de identificação do cliente ideal neste projeto de análise varejista, concebido com o propósito de aprendizado.
+Desafio de identificação do cliente ideal neste projeto de análise varejista de uma empresa fictícia, concebido com o propósito de aprendizado.
 
 Objetivo:
 
